@@ -1,0 +1,14 @@
+{
+    "name":                         "blueo/un-wp-plugin",
+
+    "description":                  "Wordpress plugin for UNYouth NZ - keeps php code out of theme files",
+
+    "authors": [
+        {
+            "name":                 "Bernard Hamlin"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
